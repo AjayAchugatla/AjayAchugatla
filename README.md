@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">TurningTech dreams into reality—one line of code at a time.</h3>
+<h3 align="center">Turning Tech dreams into reality — one line of code at a time.</h3>
 
 
 
