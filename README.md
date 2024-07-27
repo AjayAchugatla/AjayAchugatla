@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayachugatla" alt="ajayachugatla" /></a> </p>
 
-- 🌱 I’m currently learning **tailwind,next.js**
+- 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjayAchugatla?tab=repositories](https://github.com/AjayAchugatla?tab=repositories)
 
