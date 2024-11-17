@@ -1,4 +1,5 @@
-(https://holopin.me/ajayachugatla)](https://holopin.io/@ajayachugatla)
+[![@ajayachugatla's Holopin board](https://holopin.me/ajayachugatla)](https://holopin.io/@ajayachugatla)
+
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">Turning Tech dreams into reality — one line of code at a time.</h3>
