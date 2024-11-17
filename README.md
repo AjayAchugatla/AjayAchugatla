@@ -1,4 +1,4 @@
-![Holopin](https://holopin.onrender.com/ajayachugatla?style=flat-square)
+[!(https://holopin.io/api/ajayachugatla/board?user=rphi)](https://holopin.io/@ajayachugatla)
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">Turning Tech dreams into reality — one line of code at a time.</h3>
