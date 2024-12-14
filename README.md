@@ -28,5 +28,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajayachugatla&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=AjayAchugatla&icon=10&color=8)](https://visitcount.itsvg.in)
+
