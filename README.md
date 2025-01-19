@@ -24,8 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayachugatla&show_icons=true&locale=en" alt="ajayachugatla" /></p>
 
 
-![](https://streak-stats.demolab.com/?user=AjayAchugatla)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=AjayAchugatla&theme=dark&hide_border=false)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajayachugatla&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
